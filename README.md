@@ -22,6 +22,5 @@
    - If test cases are not running, restart Visual studio and repeat this 5th section.
 
 6. **Validate Your Reports**:
-   - Go to Solution explorer in Visual studio.
-   - Right-click on the solution and click 'Open folder in file Explorer'.
+   - Open file explorer and go to this path: C:\Users\Amandeep Saini\source\repos\XyzBankProject\TestResults
    - Open the report files in any browser to view test results.
