@@ -1,7 +1,8 @@
 #Instructions
 1) Download and Open Visual Studio:
-   -Launch Visual Studio and open your project.
-2) Install Packages: Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution.
+   -Launch Visual Studio 2022 and open your project.
+2) Install Packages:
+   Steps: Go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution > Install below packages one by one.
 - Selenium.WebDriver
 - Selenium.Support
 - WebDriverManager
