@@ -16,7 +16,7 @@ namespace XyzBankProject
         public ExtentReports extentReports;
         public ThreadLocal<IWebDriver> driver = new ThreadLocal<IWebDriver>();
         public ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();
-        string reportPath = "C:\\Users\\Amandeep Saini\\source\\repos\\MyNunitProjectPractice\\TestResults\\" + $"Report_{DateTime.UtcNow.ToString("yyyyMMdd_hhMMss")}.html";
+        string reportPath = "C:\\Users\\Amandeep Saini\\source\\repos\\XyzBankProject\\TestResults\\" + $"Report_{DateTime.UtcNow.ToString("yyyyMMdd_hhMMss")}.html";
         #endregion
 
         [OneTimeSetUp]
