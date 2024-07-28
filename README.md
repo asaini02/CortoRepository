@@ -6,7 +6,7 @@
      - .NET desktop development
      - Windows application development
 
-2. **Install Visual Studio**:
+2. **Launch Visual Studio**:
    - Once Visual Studio is installed, click **Launch**.
 
 3. **Clone the Repository**:
