@@ -15,4 +15,9 @@ Once all the packages are installed, build your solution to ensure all dependenc
 
 4)Run Your Tests:
 - Open the Test Explorer (go to Test > Test Explorer).
-- Right click and Run your tests from the Test Explorer window.
+- Right-click and Run your tests from the Test Explorer window.
+
+5) Go to File Explorer in your local> Validate your reports ( ExtentReports) after running test cases.
+ - The path will look like this:
+      C:\Users\Amandeep Saini\source\repos\XyzBankProject
+- Open all files in any browser
